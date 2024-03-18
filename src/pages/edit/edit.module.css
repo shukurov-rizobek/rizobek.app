@@ -1,0 +1,18 @@
+.edit {
+  padding: 4rem;
+}
+
+.edit button {
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+  background-color: teal;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.edit button:hover {
+  background-color: aqua;
+  color: #fff;
+}

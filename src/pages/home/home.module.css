@@ -1,0 +1,10 @@
+.home {
+  padding: 4rem 0;
+}
+
+.homeProjects {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}

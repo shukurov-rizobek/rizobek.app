@@ -1,0 +1,27 @@
+.add {
+  padding: 3rem 0;
+}
+
+.add h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+.add button {
+  padding: 0.3rem 1.5rem;
+  font-size: 1rem;
+  background-color: darkcyan;
+  border: none;
+  font-weight: bold;
+  color: #111;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  box-shadow: #00000066 0px 2px 4px, #0000004d 0px 7px 13px -3px,
+    #00000033 0px -3px 0px inset;
+}
+
+.add button:hover {
+  background-color: aqua;
+  color: #fff;
+}
